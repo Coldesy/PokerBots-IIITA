@@ -1,7 +1,6 @@
 # IIITA Pokerbots
-
-## Dependencies
- - python>=3.5
+![Gemini_Generated_Image_qun6qhqun6qhqun6(1)](https://github.com/user-attachments/assets/374aa779-d097-4d53-8606-a4a43786cfc7)
+## Dependencies - python>=3.5
  - cython (pip install cython)
  - eval7 (pip install eval7)
  - Java>=8 for java_skeleton
